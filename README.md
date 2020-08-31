@@ -2,31 +2,24 @@
 
 <h3 align="center">I'm a Backend Engineer, Linux Enthusiast, and IT Student. Code is my hobby and I'm falling for it</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=afikrim" /></p>
-
 - :space_invader: I'm currently studying at **Brawijaya Univeristy**
 - :seedling: I'm currenly learning **Go, Python, and Proto Buffer**
 - :hammer: I'm currently working on my website, [AFM Personal Web](https://afikrim.xyz)
 - :thought_balloon: Ask me about *ExpressJs, and something that related*
 
 #### Languages and Tools:
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> </span>
-<span> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"> </span>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-<p align="center">
+#### Github Value
+<p align="left">
   <a href="https://github.com/afikrim">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afikrim&hide=vim script" />
   </a>
