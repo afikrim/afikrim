@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/afikrim">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afikrim&hide=html" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afikrim&hide=vim script" />
   </a>
   <a href="https://github.com/afikrim">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=afikrim&show_icons=true&line_height=33&count_private=true" alt="Afikrim's GitHub Stats" />
