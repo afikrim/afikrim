@@ -5,7 +5,7 @@
 - :space_invader: I'm currently studying at **Brawijaya Univeristy**
 - :seedling: I'm currenly learning **Go, Python, and Proto Buffer**
 - :hammer: I'm currently working on my website, [AFM Personal Web](https://afikrim.xyz)
-- :thought_balloon: Ask me about *ExpressJs, and something that related*
+- :office: I'm working as Software Engineer at [Deliv Indonesia](https://deliv.co.id) | [Kios Deliv](https://kios.deliv.id)
 
 #### Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tech-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tech-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 #### Github Value
