@@ -2,6 +2,7 @@
 
 <h3 align="center">I'm a Backend Engineer, Linux Enthusiast, and IT Student. Code is my hobby and I'm falling for it</h3>
 
+#### Summary:
 Hi, My Name is Aziz, I'm a student at Brawijaya University with major in Information Technology. I think code is not about language but about logic, when someone understand how the logic behind it, language is no longer a matter. Someone that already pass all basics about code should be able to code in many languages, although every language have their uniques but at least people that understand the basic should be able to learn it in a short time. That's all about me, see ya
 
 #### Experiences:
