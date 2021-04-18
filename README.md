@@ -2,10 +2,10 @@
 
 <h3 align="center">I'm a Backend Engineer, Linux Enthusiast, and IT Student. Code is my hobby and I'm falling for it</h3>
 
-- :space_invader: I'm currently studying at **Brawijaya Univeristy**
-- :seedling: I'm currenly learning **Go, Python, and Proto Buffer**
-- :hammer: I'm currently working on my website, [AFM Personal Web](https://afikrim.xyz)
-- :office: I'm working as Software Engineer at [Deliv Indonesia](https://deliv.co.id) | [Kios Deliv](https://kios.deliv.id)
+Hi, My Name is Aziz, I'm a student at Brawijaya University with major in Information Technology. I think code is not about language but about logic, when someone understand how the logic behind it, language is no longer a matter. Someone that already pass all basics about code should be able to code in many languages, although every language have their uniques but at least people that understand the basic should be able to learn it in a short time. That's all about me, see ya
+
+#### Experiences:
+- :office: Since Aug 2020, I work as Software Engineer at [Deliv Indonesia](https://deliv.co.id) | [Kios Deliv](https://kios.deliv.id)
 
 #### Languages and Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
