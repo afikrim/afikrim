@@ -1,32 +1,28 @@
-<h1 align="center">Hi! I'm Aziz Fikri :bow:</h1>
+<!-- Greetings -->
+# Hi! I'm Aziz Fikri :bow:
 
-<h3 align="center">I'm a Backend Engineer, Linux Enthusiast, and IT Student. Code is my hobby and I'm falling for it</h3>
+<!-- Social Media -->
+[![Linkedin](https://img.shields.io/badge/-afikrim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afikrim/)
+[![Gmail](https://img.shields.io/badge/-afikrim10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:afikrim10@gmail.com)
+![](https://komarev.com/ghpvc/?username=afikrim&label=Visitor&color=2bbc8a)
 
-#### Summary:
-Hi, My Name is Aziz, I'm a student at Brawijaya University with major in Information Technology. I think code is not about language but about logic, when someone understand how the logic behind it, language is no longer a matter. Someone that already pass all basics about code should be able to code in many languages, although every language have their uniques but at least people that understand the basic should be able to learn it in a short time. That's all about me, see ya
+<!-- Introduction -->
+I'm a **Fullstack Engineer** at [Deliv](https://kios.deliv.id), The premium service focuses on helping SME (Small Medium Enterprise) to run their business, as well as help them manage reports of their sales. Outside of work, I often spend my time exploring new technologies for web development.
 
-#### Experiences:
-- :office: Since Aug 2020, I work as Software Engineer at [Deliv Indonesia](https://deliv.co.id) | [Kios Deliv](https://kios.deliv.id)
+## 📃 Things (to / wanna) do:
+- I have worked with AWS ecosystem to manage our application at [Deliv](https://kios.deliv.id)
+- I'm currently build projects with NestJs and Angular
+- I'm looking to get more familiar with Golang and Flutter
+- I'm interested in microservices and microfrontends
 
-#### Languages and Tools:
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tech-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tech-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tech-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+## 📊 Languages
+- ✨ Backend Development: **NodeJS, PHP & Java**
+- ✨ Frontend Development: **Javascript**
 
-#### Github Value
-<p align="left">
-  <a href="https://github.com/afikrim">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afikrim&hide=vim script" />
-  </a>
-  <a href="https://github.com/afikrim">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afikrim&show_icons=true&line_height=33&count_private=true" alt="Afikrim's GitHub Stats" />
-  </a>
-</p>
+## 🔧 Technologies & Tools
+*GraphQL, Redis, MySQL, Postgre, Docker, NestJs, Angular, & Postman*
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>Credit: Afikrim, last edit on - 29 Jan 2022</sub>
