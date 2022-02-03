@@ -23,8 +23,6 @@ I'm a **Fullstack Engineer** at [Deliv](https://kios.deliv.id), The premium serv
 *GraphQL, Redis, MySQL, Postgre, Docker, NestJs, Angular, & Postman*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2056%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
