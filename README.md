@@ -6,7 +6,7 @@ I'm a **Software Engineer (BE)** at [Ruangguru](https://ruangguru.com), The prem
 
 
 ## 📃 Things (to / wanna) do:  
-- I have worked with AWS ecosystem to manage our application at Deliv  
+- I have worked with AWS ecosystem to manage our application at [Deliv](https://kios.deliv.id) // Past Company  
   
 
 - I'm currently build projects with NestJs and Angular  
