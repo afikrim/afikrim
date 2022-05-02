@@ -1,5 +1,5 @@
 ## 🙇 Intro  
-I'm a Fullstack Engineer at [Deliv](https://deliv.co.id), The premium service focuses on helping SME (Small Medium Enterprise) to run their business, as well as help them manage reports of their sales. Outside of work, I often spend my time exploring new technologies for web development.  
+I'm a **Software Engineer (BE)** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I often spend my time exploring new technologies for web development.  
   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=afikrim&&style=for-the-badge) 
@@ -146,4 +146,4 @@ Java                     7 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sub>Credit: Afikrim, last edit on - 26 Apr 2022</sub>
+<sub>Credit: Afikrim, last edit on - 02 May 2022</sub>
