@@ -91,6 +91,8 @@ I'm a **Software Engineer (BE)** at [Ruangguru](https://ruangguru.com), The prem
 ## 📈 Stats  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm a Night 🦉** 
 
 ```text
