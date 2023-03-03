@@ -91,7 +91,7 @@ I'm a **Software Engineer (BE)** at [Ruangguru](https://ruangguru.com), The prem
 ## 📈 Stats  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -120,11 +120,11 @@ Sunday                   41 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 55 mins       ███████████████████░░░░░░   77.20 % 
-Go                       1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+TypeScript               4 hrs 23 mins       ██████████████████░░░░░░░   70.33 % 
+Go                       1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
