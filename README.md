@@ -1,21 +1,20 @@
 ## 🙇 Intro  
-I'm a **Software Engineer (BE)** at [Ruangguru](https://ruangguru.com), The premium service focuses on helping students in understanding school curriculums, as well as helping with exams, particularly standardised tests. Outside of work, I often spend my time exploring new technologies for web development.  
-  
+I'm a **Software Engineer (BE)** at [Amartha](https://amartha.com/). The premium service focuses on providing access to Business Capital for MSMEs in rural area. Outside of work, I often spend my time exploring new technologies for web development or work on freelance projects.  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=afikrim&&style=for-the-badge) 
 
 
-## 📃 Things (to / wanna) do:  
-- I have worked with AWS ecosystem to manage our application at [Deliv](https://kios.deliv.id) // Past Company  
+## 📃 Things (to do / have done):  
+- I want to learn more about DevOps
   
 
-- I'm currently build projects with NestJs and Angular  
+- I want to learn more about GRPC and Protobuf Generator
   
 
-- I'm looking to get more familiar with Golang and Flutter  
+- I want to code less but deliver more
   
 
-- I'm interested in microservices and microfrontends  
+- I have learned that there is no such things like "The Perfect Code Style"
 
 
 ## 🎖️ My Skill Set  
