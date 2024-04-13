@@ -53,11 +53,10 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Cheetah                  0 secs              ██████████████░░░░░░░░░░░   54.44 % 
-Go                       0 secs              ███████████░░░░░░░░░░░░░░   45.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
