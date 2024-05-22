@@ -38,8 +38,8 @@ Aziz is a passionate **Backend Engineer** who enjoys challenges! With almost 3 y
 
 ```text
 Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 Thursday                 201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
 Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 Saturday                 150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
@@ -62,11 +62,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               39 repos            ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Go                       26 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               38 repos            ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Go                       26 repos            █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 
