@@ -40,8 +40,8 @@ Aziz is a passionate **Backend Engineer** who enjoys challenges! With almost 3 y
 Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Thursday                 202 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 Saturday                 151 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 Sunday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 ```
