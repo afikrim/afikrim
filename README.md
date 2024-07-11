@@ -5,7 +5,7 @@
 [![Github](https://komarev.com/ghpvc/?username=afikrim&label=Visitors&style=for-the-badge)](https://www.github.com/afikrim)
 
 <!--Introduction-->
-Aziz is a passionate **Backend Engineer** who enjoys challenges! With almost 3 years of experience, Aziz has solved many challenges, whether from the past or current company. Assigned as a Backend Engineer at [Amartha Microfinance](https://amartha.com) Core team, Aziz has tackled many challenges using GoLang as his main weapon alongside Postgresql, Redis, and MongoDB. The recent challenge that he tackled is creating a generic service that is gonna be used by the entire company to store files. Besides being a challenge lover, Aziz is also a fast learner and a diligent person.
+Aziz is a passionate **Backend Engineer** who enjoys challenges! With more than 4 years of experience, Aziz has solved many challenges, whether from the past or current company. Assigned as a Software Engineer II at [Jurnal by Mekari](https://jurnal.id). Besides being a challenge lover, Aziz is also a fast learner and a diligent person.
 
 <!--Things TODO-->
 ## 🗒️ Things (to / wanna) do:
@@ -84,4 +84,4 @@ Lua                      2 repos             ░░░░░░░░░░░�
 </div>
 
 
-<sub>Credit: Afikrim, last edit on - 26 June 2023</sub>
+<sub>Credit: Afikrim, last edit on - 11 July 2024</sub>
