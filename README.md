@@ -53,11 +53,10 @@ Sunday                   130 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       16 mins             ██████████████████████░░░   87.69 % 
-TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
