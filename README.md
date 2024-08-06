@@ -24,7 +24,7 @@ Aziz is a passionate **Backend Engineer** who enjoys challenges! With more than 
 ## 📈 Stats  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C553%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C554%20hrs%2039%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,10 +53,15 @@ Sunday                   131 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       21 mins             ██████████░░░░░░░░░░░░░░░   41.65 % 
+JSON                     18 mins             █████████░░░░░░░░░░░░░░░░   36.54 % 
+Lua                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             ████████████████████░░░░░   78.19 % 
+Neovim                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 ```
 
 **I Mostly Code in TypeScript** 
