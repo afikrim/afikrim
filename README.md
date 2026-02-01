@@ -24,41 +24,6 @@ Aziz is a passionate **Backend Engineer** who enjoys challenges! With more than 
 ## 📈 Stats  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C130%20hrs%2013%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10932 commits       ███████████░░░░░░░░░░░░░░   44.50 % 
-🌆 Daytime                3686 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-🌃 Evening                5913 commits        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌙 Night                  4038 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Tuesday                  4903 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Wednesday                5226 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Thursday                 5252 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   5060 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Saturday                 1568 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   272 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
