@@ -29,21 +29,21 @@ Aziz is a passionate **Backend Engineer** who enjoys challenges! With more than 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14710 commits       ██████████░░░░░░░░░░░░░░░   40.25 % 
-🌆 Daytime                6448 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-🌃 Evening                9069 commits        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-🌙 Night                  6321 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+🌞 Morning                14985 commits       ██████████░░░░░░░░░░░░░░░   40.05 % 
+🌆 Daytime                6634 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+🌃 Evening                9311 commits        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌙 Night                  6482 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3984 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Tuesday                  7556 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Wednesday                6931 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Thursday                 7423 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Friday                   8084 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Saturday                 2153 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Sunday                   417 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Monday                   4113 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Tuesday                  7747 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Wednesday                7052 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Thursday                 7573 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Friday                   8303 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Saturday                 2195 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Sunday                   429 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
@@ -62,11 +62,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            ████████░░░░░░░░░░░░░░░░░   32.62 % 
-Go                       31 repos            █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-JavaScript               27 repos            █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               46 repos            ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Go                       32 repos            ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+JavaScript               27 repos            █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
