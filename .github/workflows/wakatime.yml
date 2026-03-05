@@ -24,7 +24,7 @@ jobs:
           CODE_LANG: go
           TIME_RANGE: all_time
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: main
+          TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: Bot
           COMMITTER_EMAIL: afikrim10@gmail.com
