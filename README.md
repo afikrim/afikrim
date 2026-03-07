@@ -23,7 +23,7 @@ Aziz is a passionate **Backend Engineer** who enjoys challenges! With more than 
 
 ## 📈 Stats  
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C130%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -72,7 +72,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakatime-->
 
 
 <br clear="both">
