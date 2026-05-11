@@ -1,27 +1,35 @@
 # Aziz here! 👋
 
 [![LinkedIn](https://img.shields.io/static/v1?message=afikrim&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/afikrim)
-[![eMail](https://img.shields.io/static/v1?message=afikrim10@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:afikrim10@gmail.com)
-[![Github](https://komarev.com/ghpvc/?username=afikrim&label=Visitors&style=for-the-badge)](https://www.github.com/afikrim)
+[![Email](https://img.shields.io/static/v1?message=afikrim10@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:afikrim10@gmail.com)
+[![GitHub](https://komarev.com/ghpvc/?username=afikrim&label=Visitors&style=for-the-badge)](https://www.github.com/afikrim)
 
-<!--Introduction-->
-Aziz is a passionate **Backend Engineer** who enjoys challenges! With more than 4 years of experience, Aziz has solved many challenges, whether from the past or current company. Assigned as a Software Engineer II at [Jurnal by Mekari](https://jurnal.id). Besides being a challenge lover, Aziz is also a fast learner and a diligent person.
+<!-- Introduction -->
+Aziz is a Software Engineer with 5+ years of experience building backend systems, APIs, and product features.
 
-<!--Things TODO-->
+Currently working at [GoTu](https://joingotu.com), a dental marketplace that helps dental professionals find available shifts in their area and helps dental offices connect with the right professionals.
+
+The rest of this introduction is still TBD — still figuring out how to describe myself without sounding too much like a LinkedIn post.
+
+<!-- Things TODO -->
 ## 🗒️ Things (to / wanna) do:
 
-- 😆 Work less
-- 🚀 Visit Japan 🇯🇵
-- 🎮 Play more games
+- 🕊️ Build enough freedom to own my time
+- 🌱 Create things that can grow even when I'm not around
+- 🌏 Visit Makkah, Japan, and South Korea with my wife
+- 🤝 Be useful for the people I care about
+- 🔁 Recheck this section later
 
-<!--Skillset-->
-## 🏅 Skillset:
+<!-- Skillset -->
+## 🏅 Equipments:
 
-- Backend Development: **Go, Java, & NodeJs**
-- Frontend Development: **NodeJs (Ts & Js)**
-- Other Skillset: **Git, Docker, AWS, Linux, & Nginx**
+- Backend Development: **Go, Java, Node.js, TypeScript**
+- Frontend Development: **React, TypeScript, JavaScript**
+- Database: **PostgreSQL, MongoDB, Redis**
+- DevOps & Tools: **Git, Docker, AWS, Linux, Nginx, GitHub Actions**
+- Other Stuff: **Debugging, Logging, Performance Investigation, CI/CD**
 
-## 📈 Stats  
+## 📈 Leveling Process
 
 <!--START_SECTION:wakatime-->
 
