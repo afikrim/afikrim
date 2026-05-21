@@ -36,18 +36,18 @@ The rest of this introduction is still TBD — still figuring out how to describ
 ```go
 From: 28 January 2022 - To: 20 May 2026
 
-Total Time: 2,013 hrs 13 mins
+Total Time: 2,016 hrs 38 mins
 
-Go                         746 hrs 17 mins       ████████▓░░░░░░░░░░░░░░░░   34.53 %
-TypeScript                 505 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-Other                      148 hrs 15 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Go                         747 hrs 43 mins       ████████▓░░░░░░░░░░░░░░░░   34.57 %
+TypeScript                 506 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+Other                      146 hrs 9 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 YAML                       96 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-PHP                        84 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-JavaScript                 67 hrs 23 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Ruby                       61 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown                   58 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+PHP                        84 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JavaScript                 67 hrs 32 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Ruby                       61 hrs 1 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Markdown                   59 hrs 24 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 Bash                       53 hrs 23 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-SQL                        40 hrs 31 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+SQL                        40 hrs 31 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:wakatime-->
