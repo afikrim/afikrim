@@ -34,7 +34,7 @@ The rest of this introduction is still TBD — still figuring out how to describ
 <!--START_SECTION:wakatime-->
 
 ```go
-From: 28 January 2022 - To: 20 May 2026
+From: 28 January 2022 - To: 21 May 2026
 
 Total Time: 2,016 hrs 38 mins
 
